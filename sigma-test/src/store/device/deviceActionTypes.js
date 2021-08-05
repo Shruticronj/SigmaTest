@@ -1,0 +1,3 @@
+export const GET_DEVICE = "GET_DEVICE";
+export const GET_DEVICE_SUCCESS = "GET_DEVICE_SUCCESS";
+export const GET_DEVICE_ERROR = "GET_DEVICE_ERROR";
